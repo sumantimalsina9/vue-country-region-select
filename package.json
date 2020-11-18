@@ -1,8 +1,8 @@
 {
-  "name": "vue-country-region-select",
+  "name": "vue-country-region-select-forked",
   "version": "2.0.14",
-  "description": "A Country select component and Region select component for Vue.js. Work together and standalone.",
-  "repository": "https://github.com/gehrj/vue-country-region-select",
+  "description": "A Country select component and Region select component for Vue.js. Work together and standalone forked form vue-country-region-select",
+  "repository": "https://github.com/sumantimalsina9/vue-country-region-select.git",
   "author": "Justin Gehr <gehrjay@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -20,7 +20,7 @@
     "region select",
     "lightweight",
     "state select",
-    "state",   
+    "state",
     "vue state select",
     "country dropdown",
     "dropdown",

@@ -8932,67 +8932,67 @@ export default [
     "regions": [
       {
         "name": "Johor",
-        "shortCode": "01"
+        "shortCode": "JHR"
       },
       {
         "name": "Kedah",
-        "shortCode": "02"
+        "shortCode": "KDH"
       },
       {
         "name": "Kelantan",
-        "shortCode": "03"
+        "shortCode": "KTN"
       },
       {
         "name": "Melaka",
-        "shortCode": "04"
+        "shortCode": "MLK"
       },
       {
         "name": "Negeri Sembilan",
-        "shortCode": "05"
+        "shortCode": "NSN"
       },
       {
         "name": "Pahang",
-        "shortCode": "06"
+        "shortCode": "PHG"
       },
       {
         "name": "Perak",
-        "shortCode": "08"
+        "shortCode": "PRK"
       },
       {
         "name": "Perlis",
-        "shortCode": "09"
+        "shortCode": "PLS"
       },
       {
         "name": "Pulau Pinang",
-        "shortCode": "07"
+        "shortCode": "PNG"
       },
       {
         "name": "Sabah",
-        "shortCode": "12"
+        "shortCode": "SBH"
       },
       {
         "name": "Sarawak",
-        "shortCode": "13"
+        "shortCode": "SWK"
       },
       {
         "name": "Selangor",
-        "shortCode": "10"
+        "shortCode": "SGR"
       },
       {
         "name": "Terengganu",
-        "shortCode": "11"
+        "shortCode": "TRG"
       },
       {
         "name": "Wilayah Persekutuan (Kuala Lumpur)",
-        "shortCode": "14"
+        "shortCode": "KUL"
       },
       {
         "name": "Wilayah Persekutuan (Labuan)",
-        "shortCode": "15"
+        "shortCode": "LBN"
       },
       {
         "name": "Wilayah Persekutuan (Putrajaya)",
-        "shortCode": "16"
+        "shortCode": "PJY"
       }
     ]
   },
