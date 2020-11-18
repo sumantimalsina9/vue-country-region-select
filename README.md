@@ -1,9 +1,9 @@
-# Vue-Country-Region-Select ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+# Vue-Country-Region-Select! Forked form vue-country-region-select 
 
 Vue-Country-Region-Select provides a pair of Vue components that will allow you to easily put a country and region dropdown in your project that will work together or standalone. Supports vue-i18n.
 
 ## Installation
-`npm install vue-country-region-select --save`
+`npm install vue-country-region-select-forked --save`
 
 ## Dependencies 
 Being that these are Vue components you will need to use them inside of Vue.

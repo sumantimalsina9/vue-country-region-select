@@ -1,6 +1,6 @@
 {
   "name": "vue-country-region-select-forked",
-  "version": "2.0.14",
+  "version": "1.0.0",
   "description": "A Country select component and Region select component for Vue.js. Work together and standalone forked form vue-country-region-select",
   "repository": "https://github.com/sumantimalsina9/vue-country-region-select.git",
   "author": "Justin Gehr <gehrjay@gmail.com>",
